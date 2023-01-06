@@ -5113,10 +5113,10 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-marked@4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-4.2.3.tgz#bd76a5eb510ff1d8421bc6c3b2f0b93488c15bea"
-  integrity sha512-slWRdJkbTZ+PjkyJnE30Uid64eHwbwa1Q25INCAYfZlK4o6ylagBy/Le9eWntqJFoFT93ikUKMv47GZ4gTwHkw==
+marked@4.2.5:
+  version "4.2.5"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.2.5.tgz#979813dfc1252cc123a79b71b095759a32f42a5d"
+  integrity sha512-jPueVhumq7idETHkb203WDD4fMA3yV9emQ5vLwop58lu8bTclMghBWcYAavlDqIEMaisADinV1TooIFCfqOsYQ==
 
 memoize-one@^5.0.0:
   version "5.2.1"
@@ -6108,14 +6108,14 @@ react-native-gradle-plugin@^0.70.3:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.70.3.tgz#cbcf0619cbfbddaa9128701aa2d7b4145f9c4fc8"
   integrity sha512-oOanj84fJEXUg9FoEAQomA8ISG+DVIrTZ3qF7m69VQUJyOGYyDZmPqKcjvRku4KXlEH6hWO9i4ACLzNBh8gC0A==
 
-react-native-marked@1.6.8:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/react-native-marked/-/react-native-marked-1.6.8.tgz#1ec2ac185c977f5a08e9283b34fbb9077cec4fda"
-  integrity sha512-5TrW+huuES1R6sosRAhX/9NaSVOPHDmT1mUss+rmwrBn4XfaTFizmS6fVewgjIxXMYJDtUMDVGhFxSnhxCO2og==
+react-native-marked@^1.6.11:
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/react-native-marked/-/react-native-marked-1.6.11.tgz#9bd25fcc63a1e3d21f24e076e499d53f767c1635"
+  integrity sha512-1IaSQ+ltWnkLBoOtUOB/AxpeTumxX6QumeKoc12w0ZtWzFF6oe/ImoJbOmcQt3IBC9o5NoTyzlRqgWudoJwgEQ==
   dependencies:
     "@jsamr/counter-style" "2.0.2"
     "@jsamr/react-native-li" "2.3.1"
-    marked "4.2.3"
+    marked "4.2.5"
     react-native-fit-image "1.5.5"
 
 react-native@0.70.6:
